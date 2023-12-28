@@ -32,6 +32,6 @@ ls
 To start the tool
 
 ```bash
-  python3 Bruteay.py
+  python3 bruteay.py
 ```
 
