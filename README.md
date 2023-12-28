@@ -9,7 +9,7 @@ Bruteay is a password wordlist generator
 - [@Ayushman Dutta](https://www.github.com/ayushman89)
 
 
-## Run Locally
+## to run the brtueay
 
 Clone the project
 
